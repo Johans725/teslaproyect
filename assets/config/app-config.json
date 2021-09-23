@@ -1,0 +1,8 @@
+{
+    "logo": "assets/img/tesla.5.png",
+    "logoLogin": "assets/img/tesla.jpg",
+    "name_site": "Tesla",
+    "min": 5500,
+    "max": 7000,
+    "num_users": 52
+}
